@@ -6,7 +6,7 @@ body{
 
 }
 main{
-    background-color: aliceblue;
+    background-color: rgba(36, 138, 226, 0.377);
     border-radius: 8%;
     box-shadow: 5px 5px 15px ;
     width: 500px;
@@ -14,13 +14,17 @@ main{
     margin: auto;
 }
 h1{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    transition: linear;
+    
     
 }
 p{
     font-family:Arial, Helvetica, sans-serif ;
 }
 p#principal{
-    color :aqua;
+    color :black;
+
 }
