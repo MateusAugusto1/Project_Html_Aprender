@@ -4,27 +4,31 @@ body{
 
     background-image: linear-gradient(to right, #730202,#BF3604);
 
-}
-main{
-    background-color: rgba(36, 138, 226, 0.377);
-    border-radius: 8%;
-    box-shadow: 5px 5px 15px ;
-    width: 500px;
-    padding: 80px;
-    margin: auto;
-}
-h1{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 20px;
-    text-align: center;
-    transition: linear;
-    
-    
-}
-p{
-    font-family:Arial, Helvetica, sans-serif ;
-}
-p#principal{
-    color :black;
 
 }
+
+    header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+nav{
+        text-align: center;
+        text-decoration: solid;
+        text-shadow: #730202;
+        
+
+}
+main{
+    background-color: rgba(9, 30, 49, 0.377);
+    border-radius: 6%;
+    box-shadow: 5px 5px 5px ;
+    width: 900px;
+    padding: 90px;
+    margin: auto;
+}
+.segundo{
+    color: crimson;
+}
+
