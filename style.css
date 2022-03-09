@@ -2,7 +2,7 @@
 
 body{
 
-    background-image: linear-gradient(to right, #730202,#BF3604);
+    background-image: linear-gradient(to right, #ee0a0a,#5f06b3);
 
 
 }
@@ -13,10 +13,11 @@ body{
     text-align: center;
 }
 
-nav{
+nav{    
+        color: whitesmoke;
         text-align: center;
         text-decoration: solid;
-        text-shadow: #730202;
+        text-shadow: #ce901e;
         
 
 }
@@ -29,6 +30,6 @@ main{
     margin: auto;
 }
 .segundo{
-    color: crimson;
+    color: rgba(80, 129, 68, 0.678);
 }
 
