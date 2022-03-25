@@ -2,7 +2,7 @@
 
 body{
 
-    background-image: linear-gradient(to right, #ee0a0a,#5f06b3);
+    background-image: linear-gradient(to right, #ff0000,#5805a5);
 
 
 }
@@ -13,16 +13,16 @@ body{
     text-align: center;
 }
 
-nav{    
-        color: whitesmoke;
-        text-align: center;
+.li > a{    
+        color: rgba(213, 221, 92, 0.74);
         text-decoration: solid;
-        text-shadow: #ce901e;
+        padding: 1px 5px;
+        
         
 
 }
 main{
-    background-color: rgba(9, 30, 49, 0.377);
+    background-color: rgba(15, 98, 177, 0.377);
     border-radius: 6%;
     box-shadow: 5px 5px 5px ;
     width: 900px;
@@ -30,6 +30,6 @@ main{
     margin: auto;
 }
 .segundo{
-    color: rgba(80, 129, 68, 0.678);
+    color: rgba(52, 255, 1, 0.678);
 }
 
