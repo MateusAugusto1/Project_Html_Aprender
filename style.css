@@ -1,35 +1,10 @@
 @charset "utf-8";
 
-body{
-
-    background-image: linear-gradient(to right, #ff0000,#5805a5);
-
-
+.container{
+    color: white;
+    background-color: rgb(117, 57, 57);
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
 }
-
-    header{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 18px;
-    text-align: center;
-}
-
-.li > a{    
-        color: rgba(213, 221, 92, 0.74);
-        text-decoration: solid;
-        padding: 1px 5px;
-        
-        
-
-}
-main{
-    background-color: rgba(15, 98, 177, 0.377);
-    border-radius: 6%;
-    box-shadow: 5px 5px 5px ;
-    width: 900px;
-    padding: 90px;
-    margin: auto;
-}
-.segundo{
-    color: rgba(52, 255, 1, 0.678);
-}
-
