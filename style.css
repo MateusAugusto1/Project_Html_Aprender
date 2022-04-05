@@ -1,10 +1,16 @@
 @charset "utf-8";
 
 .container{
-    color: white;
-    background-color: rgb(117, 57, 57);
+    background-color: rgb(158, 140, 140);
     display: flex;
     flex-direction: row;
     gap: 20px;
     justify-content: center;
+}
+a:hover{
+    text-decoration:dashed;
+    color: rgb(4, 255, 4);
+}
+h1{
+    text-align: center;
 }
