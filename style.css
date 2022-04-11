@@ -6,7 +6,7 @@
 }
 
 .container{
-    background-color: rgb(158, 140, 140);
+    background-color: rgba(158, 140, 140, 0.26);
     display: flex;
     flex-direction: row;
     gap: 20px;
@@ -21,11 +21,13 @@ body{
 a:hover{
     text-decoration:dashed;
     color: rgb(4, 255, 4);
+    
 }
 h1{
     text-align: center;
     color: rgb(1, 80, 145);
     font-family:'Shadow', sans-serif;
+    font-size: 60px;
     
     
 }
@@ -37,6 +39,8 @@ p{
 
 }
 .tituloss  {
+    font-size: 25px;
     color: white;
+    text-shadow: 2px 2px 4px gray;
     text-indent: 90px;
 }
