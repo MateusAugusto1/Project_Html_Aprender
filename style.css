@@ -6,11 +6,11 @@
 }
 
 .container{
-    background-color: rgba(158, 140, 140, 0.26);
-    display: flex;
+    display:flex;
     flex-direction: row;
     gap: 20px;
     justify-content: center;
+
     
 }
 body{
@@ -20,7 +20,7 @@ body{
 }
 a:hover{
     text-decoration:dashed;
-    color: rgb(4, 255, 4);
+    color: rgba(230, 80, 43, 0.459);
     
 }
 h1{
@@ -39,9 +39,14 @@ p{
 
 }
 .tituloss  {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 25px;
     color: white;
     text-shadow: 2px 2px 4px gray;
     text-indent: 90px;
     max-width: fit-content;
+    flex-wrap:nowrap;
+    
 }
