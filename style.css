@@ -19,8 +19,10 @@ body{
     background-size: cover;
 }
 a:hover{
-    text-decoration:dashed;
-    color: rgba(230, 80, 43, 0.459);
+    text-decoration:overline;
+    color: rgba(255, 255, 255, 0.459);
+    font-style: italic;
+    
     
 }
 h1{
