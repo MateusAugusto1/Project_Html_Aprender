@@ -7,7 +7,7 @@
 }
 
 *{
-    padding: 20px;
+    padding: 30px;
     
 }
 .container{
@@ -36,6 +36,7 @@ h1{
     color: rgb(37, 140, 224);
     font-family:'Shadow', sans-serif;
     font-size: 60px;
+    font-stretch: narrower;
     
     
 }
